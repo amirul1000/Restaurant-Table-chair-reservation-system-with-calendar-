@@ -340,7 +340,7 @@ Enter Your Phone<input type="text" name="phone" id="phone">
 					
 					  if(obj.status=='success'){
 						   alert(obj.msg);
-						   window.location.href = "https://ledomedore.com/index.php/menu-products/";
+						   window.location.href = "";
 						  
 					  }
 				  },
@@ -357,7 +357,7 @@ Enter Your Phone<input type="text" name="phone" id="phone">
 	let b= confirm("Thanks for your time.Do you want to choice food?");	
 	if(b){
 
-	   window.location.href = "https://ledomedore.com/index.php/menu-products/";
+	   window.location.href = "";
 	   }
 	}
 	 
